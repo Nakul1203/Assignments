@@ -6,9 +6,9 @@ public class Assignment7 {
 		// Customer details
 		String customerName = "John Doe";           
 		int creditScore = 720;                     
-		double income = 45000.0;                    
+		double income = 55000.0;                    
 		boolean isEmployed = true;                 
-		double debtToIncomeRatio = 45.0;            
+		double debtToIncomeRatio = 35.0;            
 		
 		
 	if (creditScore>750) {
