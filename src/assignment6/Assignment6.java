@@ -14,9 +14,9 @@ public class Assignment6 {
 		
 		int[] updatedMarks = {a,b,c};
 		System.out.println("Updated Marks:");
-		System.out.println("Suresh :"+" "+a);
-		System.out.println("Mahesh :"+" "+b);
-		System.out.println("Naresh :"+" "+c);
+		System.out.println(studentName[0]+":"+updatedMarks[0]);
+		System.out.println(studentName[1]+":"+updatedMarks[1]);
+		System.out.println(studentName[2]+":"+updatedMarks[2]);
 		
 		 int averageMarks = (a+b+c)/3;
 		 System.out.println("Average mark : "+averageMarks);
